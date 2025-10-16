@@ -8,7 +8,7 @@
 
 ## 💖 About Me
 
-I’m a driven Information Systems student passionate about Front-End development. My core focus is on systems analysis and using technology to solve real-world problems. I’m adaptable and eager to explore various roles within IT.<br>
+I’m a driven Information Systems student passionate about Front-End development. My core focus is on systems analysis and using technology to solve real-world problems. I’m adaptable and eager to explore various roles within IT.<br><br>
 🎯 **Core Focus:** Front-End Development, Systems Analysis, Data Management <br>
 💻 **Skills:** HTML, CSS, PHP, MySQL, SQL, Microsoft Excel <br> 
 🌱 **Looking For:** IT Internship in Web Development, IT Support, or Systems Analysis to build experience and grow<br><br>

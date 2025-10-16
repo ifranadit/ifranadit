@@ -1,4 +1,5 @@
 # Hello There, I'm Radit Triawan Ifran 👋
+teest
 ## 💖 About Me
 
 I’m a driven Information Systems student passionate about Front-End development. My core focus remains on systems analysis and leveraging technology to solve real-world business problems. I’m adaptable and eager to explore various roles within IT.<br><br>

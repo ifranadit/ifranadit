@@ -4,6 +4,10 @@
 💡 Enjoys creating functional web solutions, analyzing systems, and applying technology to real-world challenges
 
 🛠️ Skilled in HTML, CSS, PHP, SQL, and Microsoft Excel, with hands-on experience in problem-solving and IT projects
+
+--
+
+
 ## 💖 About Me
 
 I’m a driven Information Systems student passionate about Front-End development. My core focus remains on systems analysis and leveraging technology to solve real-world business problems. I’m adaptable and eager to explore various roles within IT.<br><br>

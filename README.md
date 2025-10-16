@@ -3,7 +3,7 @@
 
 💡 Enjoys creating functional web solutions, analyzing systems, and applying technology to real-world challenges
 
-🛠️ Skilled in HTML, CSS, PHP, SQL, and Microsoft Excel, with hands-on experience in problem-solving and IT projects
+🛠️ Skilled in HTML, CSS, PHP, SQL, and Microsoft Excel, with hands-on experience in problem-solving and IT projects<br><br>
 
 
 ## 💖 About Me

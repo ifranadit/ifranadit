@@ -1,5 +1,5 @@
-Hi, I'm Radit Triawan Ifran 👋
-
+👋 Hi there, I'm Radit Triawan Ifran!
+---
 💻 Information Systems Student | Aspiring Web Developer
 
 I am a curious and driven Information Systems student at Universitas Tarumanagara with hands-on experience in full-stack web development. I'm passionate about creatively solving problems and building digital solutions that are functional and user-friendly.

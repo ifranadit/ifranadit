@@ -5,8 +5,7 @@
 
 🛠️ Skilled in HTML, CSS, PHP, SQL, and Microsoft Excel, with hands-on experience in problem-solving and IT projects
 
---
-
+---
 
 ## 💖 About Me
 

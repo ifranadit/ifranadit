@@ -1,7 +1,7 @@
 # Hello There, I'm Radit Triawan Ifran 👋
 ## 💖 About Me
 
-I am a curious and driven Information Systems student with a strong passion for Front-End web development and crafting functional, user-centric digital solutions. While I love implementing responsive design with HTML/CSS and building back-end prototypes with PHP and SQL, my core focus remains on systems analysis and leveraging technology to solve real-world business problems. I'm adaptable and excited to explore various roles within IT.<br><br>
+I’m a driven Information Systems student passionate about Front-End development. My core focus remains on systems analysis and leveraging technology to solve real-world business problems. I’m adaptable and eager to explore various roles within IT.<br><br>
 💡 **Core Focus:** Front-End Implementation, Systems Analysis, and Data Management.<br><br>
 🛠️ **Tools & Technology:** Proficient in HTML, CSS, PHP, and MySQL for development, along with SQL and Microsoft Excel for data analysis.<br><br>
 🚀 **Seeking:** IT Internship opportunities (including Web Development, IT Support, or Systems Analysis) where I can contribute to core operations and grow my technical abilities.
